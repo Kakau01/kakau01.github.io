@@ -1,5 +1,5 @@
 # Este e o meu primeiro repositorio git
-
+minha profissao e de engenheiro de software
 Neste repositorio colocarei o meu portfolio de desenvolvedor
 
 Agora eu quero falar mais sobre mim, e o que eu quero falar e que...
