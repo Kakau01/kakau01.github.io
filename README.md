@@ -9,4 +9,4 @@ eu tinha esquecido de falar oq eu queria falar
 
 As minhas experimentacoes
 
-
+Resolvi um bug que tinha nessa linha do meu codigo
