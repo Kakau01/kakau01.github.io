@@ -1,15 +1,20 @@
-# Este e o meu primeiro repositorio git
-Meu nome e claudia
-minha profissao e de engenheiro de software
-Neste repositorio colocarei o meu portfolio de desenvolvedor
+# Claudia Leite
 
-Agora eu quero falar mais sobre mim, e o que eu quero falar e que...
-eu tinha esquecido de falar oq eu queria falar
+## Sobre
 
-##Existe um arquivo com a lista de linguagens que programo
+Ola eu sou a **Claudia** e adoro *Git GitHub*.
 
-As minhas experimentacoes
+Se voce quiser saber mais sobre git, pode acessar [meu site](https://git-scm.com)
 
-Resolvi um bug que tinha nessa linha do meu codigo
+## Cursos que ja fiz
 
-Quero testar se estou conseguindo enviar ao GitHub
+- Git e GitHub
+- Programacao Basica
+
+## Linguagens de Programacao que gosto
+
+### JavaScript 
+
+Gosto muito e trabalho com JavaScript a 2 anos
+
+### Listar o que voce quiser
