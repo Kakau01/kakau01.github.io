@@ -4,7 +4,8 @@
 
 Ola eu sou a Claudia, e adora Git GitHub.
 
-Se voce quiser saber mais sobre git pode acessar [o site] (https://git-scm.com)
+Se voce quiser saber mais sobre git, pode acessar [meu site] 
+(https://git-scm.com)
 
 ## Cursos que ja fiz
 
