@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Ola eu sou a Claudia, e adora Git GitHub.
+Ola eu sou a **Claudia** e adoro *Git GitHub*.
 
 Se voce quiser saber mais sobre git, pode acessar [meu site](https://git-scm.com)
 
@@ -11,3 +11,10 @@ Se voce quiser saber mais sobre git, pode acessar [meu site](https://git-scm.com
 - Git e GitHub
 - Programacao Basica
 
+## Linguagens de Programacao que gosto
+
+### JavaScript 
+
+Gosto muito e trabalho com JavaScript a 2 anos
+
+### Listar o que voce quiser
