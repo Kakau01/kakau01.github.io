@@ -11,6 +11,11 @@ Se voce quiser saber mais sobre git, pode acessar [meu site](https://git-scm.com
 - Git e GitHub
 - Programacao Basica
 
+## Paises que ja visitei
+
+- Colombia
+- Alemanh
+
 Modificacao1
 Modificacao2
 
